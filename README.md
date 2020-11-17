@@ -1,3 +1,4 @@
+#Data Science Challenge 2020: Fraud Detection
 In this notebook we take a look at a relevant project that is frequently encountered by insurers: Fraud Detection. For this purpose we use a car data set from a public source and will show the necessary steps to establish an automated fraud detection.
 
 _________________________________________________________________________________________________________
